@@ -222,43 +222,43 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 **Data Organisation in Spreadsheets** (Hugo)
 
-Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/2252083).
+Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/2252083).  
 
-* [Introduction](http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/)
-* [Formatting data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/)
-* [Common formatting problems](http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/)
-* [Dates as data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/)
-* [Quality Control](http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/)
-* [Exporting data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/)
+* [Introduction](http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/). 
+* [Formatting data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/). 
+* [Common formatting problems](http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/). 
+* [Dates as data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/). 
+* [Quality Control](http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/). 
+* [Exporting data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/). 
 
 
 **Data cleaning with OpenRefine** (Mark)
 
-Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/7823341)
+Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/7823341). 
 
-* [Introduction](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/)
-* [Basics of OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/)
-* [Filtering and sorting](http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/)
-* [Examining numeric data](http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/)
-* [Generating scripts](http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/)
-* [Exporting data](http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/)
-* [Other resources](http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/)
+* [Introduction](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). 
+* [Basics of OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/). 
+* [Filtering and sorting](http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/). 
+* [Examining numeric data](http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/). 
+* [Generating scripts](http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/).  
+* [Exporting data](http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/). 
+* [Other resources](http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/). 
 
 
 **Data analysis with R** (Ash)
 
-* [Overview of R and Rstudio](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html)
-* [Introduction to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
-* [Working with tabular data in R](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
+* [Overview of R and Rstudio](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html). 
+* [Introduction to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html). 
+* [Working with tabular data in R](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html). 
 
 
 <h3 id="day2">Day 2</h3>
 
 **Data analysis with R**
 
-* [Data manipulation using the R package dplyr](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) (Hugo)
-* [Data visualisation using the R package ggplot2](http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) (Adrian)
-* [Interacting with databases from R](http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html) (Mark)
+* [Data manipulation using the R package dplyr](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) (Hugo). 
+* [Data visualisation using the R package ggplot2](http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) (Adrian). 
+* [Interacting with databases from R](http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html) (Mark). 
 
 Learn more about SQL from the [SQL data lessons](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/).
 
