@@ -218,6 +218,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
 
+<div class="col-md-4">
 <h3 id="day1">Day 1</h3>
 
 **Data Organisation in Spreadsheets** (Hugo)
@@ -261,7 +262,7 @@ Data files for this lesson can be downloaded from [here](https://ndownloader.fig
 * [Interacting with databases from R](http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html) (Mark). 
 
 Learn more about SQL from the [SQL data lessons](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/).
-
+</div>
 <hr/>
 
 {% comment %}
