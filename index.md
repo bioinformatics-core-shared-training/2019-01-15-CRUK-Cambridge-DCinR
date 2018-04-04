@@ -234,9 +234,9 @@ Data files for this lesson can be downloaded from [here](https://ndownloader.fig
 
 **Data cleaning with OpenRefine** (Mark)
 
-Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/7823341). 
+Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/7823341). <br>
 
-* [Introduction](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). 
+* [Introduction](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). <br>
 * [Basics of OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/). 
 * [Filtering and sorting](http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/). 
 * [Examining numeric data](http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/). 
