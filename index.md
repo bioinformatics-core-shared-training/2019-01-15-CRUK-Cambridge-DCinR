@@ -218,7 +218,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
 
-<div class="col-md-4">
+<div class="col-md-12">
 <h3 id="day1">Day 1</h3>
 
 **Data Organisation in Spreadsheets** (Hugo)
