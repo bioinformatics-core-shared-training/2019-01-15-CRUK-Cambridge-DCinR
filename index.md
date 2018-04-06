@@ -219,7 +219,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <div class="col-md-12">
-<h3 id="day1">Day 1</h3>
+### Day 1 ###
 
 **Data Organisation in Spreadsheets** (Hugo)
 
@@ -253,7 +253,7 @@ Data files for this lesson can be downloaded from [here](https://ndownloader.fig
 * [Working with tabular data in R](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html). 
 
 
-<h3 id="day2">Day 2</h3>
+### Day 2 ###
 
 **Data analysis with R**
 
