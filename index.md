@@ -240,7 +240,48 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a></li>
 </ol>
 
+<h4>Data cleaning with OpenRefine (Mark)</h4>
 
+<p>
+  Data files for the lesson are available 
+  <a href="https://ndownloader.figshare.com/files/7823341">here</a>.
+</p>
+
+<ol>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/">Introduction</a></li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/">Basics of OpenRefine</a></li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/">Filtering and sorting</a></li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/">Examining numeric data</a></li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/">Generating scripts</a></li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/">Exporting data</a></li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/">Other resources</a></li>
+  
+</ol>
+
+<h4>Data analysis with R (Ash)</h4>
+
+<ol>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a></li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Introduction to R</a></li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html">Working with tabular data in R</a></li>
+</ol>
+
+<a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1</a>
+
+
+<h3>Day 2</h3>
+
+
+<h4>Data analysis with R</h4>
+
+<ol>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a> (Hugo)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a> (Adrian)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> (Mark)</li>
+</ol>
+
+Learn more about SQL from the 
+<a href="http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/">SQL data lessons</a>.
 
 {% comment %}
   SYLLABUS
