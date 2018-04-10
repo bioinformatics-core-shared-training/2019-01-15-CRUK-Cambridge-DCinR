@@ -194,9 +194,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 (% comment %) <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="https://www.surveymonkey.co.uk/r/SFZXXWD}">Post-workshop Survey</a></p>
 {% elsif page.carpentry == "dc" %}
-  <p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="https://www.surveymonkey.co.uk/r/SFZXXWD">Post-workshop Survey</a></p>
+  <p>Please be sure to complete this survey after the workshop: 
+  <a href="https://www.surveymonkey.co.uk/r/SFZXXWD">Cambridge training survey</a></p>
+
+  <p>We would also appreciate if you filled in these surveys for the Data Carpentry community:</p>
+  <p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Data carpentry pre-workshop Survey</a></p>
+  <p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Data carpentry post-workshop Survey</a></p>
 {% elsif page.carpentry == "lc" %}
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
