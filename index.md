@@ -219,6 +219,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <div class="col-md-12">
+</div>
+
 ### Day 1 ###
 
 **Data Organisation in Spreadsheets** (Hugo)
@@ -262,7 +264,8 @@ Data files for this lesson can be downloaded from [here](https://ndownloader.fig
 * [Interacting with databases from R](http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html) (Mark). 
 
 Learn more about SQL from the [SQL data lessons](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/).
-</div>
+
+
 <hr/>
 
 {% comment %}
