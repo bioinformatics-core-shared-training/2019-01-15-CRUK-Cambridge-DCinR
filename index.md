@@ -202,9 +202,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   to match your plans.  You may also want to change 'Day 1' and 'Day
   2' to be actual dates or days of the week.
 {% endcomment %}
-<h2 id="schedule">Schedule</h2>
 
 {% comment %} DO NOT EDIT SURVEY LINKS {% endcomment %}
+
 <p><em>Surveys</em></p>
 {% if page.carpentry == "swc" %} 
 <p>Please be sure to complete these surveys before and after the workshop.</p>
@@ -218,55 +218,29 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p>Ask your instructor about pre- and post-workshop Survey details.</p>
 {% endif %}
 
-<div class="col-md-12">
-</div>
-
-### Day 1 ###
-
-**Data Organisation in Spreadsheets** (Hugo)
-
-Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/2252083).  
-
-* [Introduction](http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/). 
-* [Formatting data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/). 
-* [Common formatting problems](http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/). 
-* [Dates as data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/). 
-* [Quality Control](http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/). 
-* [Exporting data](http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/). 
-
-
-**Data cleaning with OpenRefine** (Mark)
-
-Data files for this lesson can be downloaded from [here](https://ndownloader.figshare.com/files/7823341). <br>
-
-* [Introduction](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). <br>
-* [Basics of OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/). 
-* [Filtering and sorting](http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/). 
-* [Examining numeric data](http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/). 
-* [Generating scripts](http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/).  
-* [Exporting data](http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/). 
-* [Other resources](http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/). 
-
-
-**Data analysis with R** (Ash)
-
-* [Overview of R and Rstudio](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html). 
-* [Introduction to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html). 
-* [Working with tabular data in R](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html). 
-
-
-### Day 2 ###
-
-**Data analysis with R**
-
-* [Data manipulation using the R package dplyr](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) (Hugo). 
-* [Data visualisation using the R package ggplot2](http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) (Adrian). 
-* [Interacting with databases from R](http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html) (Mark). 
-
-Learn more about SQL from the [SQL data lessons](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/).
-
-
 <hr/>
+
+<h2 id="schedule">Schedule</h2>
+
+<h3>Day 1</h3>
+
+<h4>Data organization in spreadsheets (Hugo)</h4>
+
+<p>
+  Data files for the lesson are available 
+  <a href="https://ndownloader.figshare.com/files/2252083">here</a>.
+</p>
+
+<ol>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/">Introduction</a></li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/">Formatting data</a></li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/">Common formatting problems</a></li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/">Dates as data</a></li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/">Quality control</a></li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a></li>
+</ol>
+
+
 
 {% comment %}
   SYLLABUS
