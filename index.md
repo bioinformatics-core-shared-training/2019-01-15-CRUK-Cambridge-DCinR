@@ -221,6 +221,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 {% endif %}
+<h2>Course Overview</h2>
+<img src="assets/img/Data_carpentry_overview_fig.png" alt="overview" width="800"/>
 
 <h2 id="schedule">Schedule</h2>
 
