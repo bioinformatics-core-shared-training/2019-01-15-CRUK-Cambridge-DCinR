@@ -115,9 +115,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> 
-  All the software needed for this workshop is available on the training room's 
-  computers. 
-  However, participants can bring their own laptop with a
+ Participants should bring their own laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
   that they have administrative privileges
   on. They should have a few specific software packages installed (listed
