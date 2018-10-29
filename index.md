@@ -119,7 +119,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
   that they have administrative privileges
   on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>). They are also required to abide by
+  <a href="#setup">below</a>). 
+(Those without a laptop should arrange to borrow one from the Crick IT helpdesk).
+They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
   {% elsif page.carpentry == "dc" %}
