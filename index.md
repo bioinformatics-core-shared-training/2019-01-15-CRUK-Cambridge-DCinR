@@ -258,8 +258,7 @@ They are also required to abide by
   <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/">Examining numeric data</a><(20 mins)/li>
   <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/">Generating scripts</a>(15 mins)</li>
   <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/">Exporting data</a>(15 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/">Other resources</a>(10 mins)</li>
-  
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/">Other resources</a>(10 mins)</li>  
 </ol>
 
 <h4>Data analysis with R ( )</h4>
