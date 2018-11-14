@@ -236,12 +236,12 @@ They are also required to abide by
 </p>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/">Introduction</a></li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/">Formatting data</a></li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/">Common formatting problems</a></li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/">Dates as data</a></li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/">Quality control</a></li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a></li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/">Introduction</a>(18 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/">Formatting data</a>(35 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/">Common formatting problems</a>(20 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/">Dates as data</a>(13 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/">Quality control</a>(20 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a>(10 mins)</li>
 </ol>
 
 <h4>Data cleaning with OpenRefine ( )</h4>
