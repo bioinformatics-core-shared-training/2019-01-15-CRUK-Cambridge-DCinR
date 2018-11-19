@@ -236,12 +236,12 @@ They are also required to abide by
 </p>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/">Introduction</a>(18 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/">Formatting data</a>(35 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/">Common formatting problems</a>(20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/">Dates as data</a>(13 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/">Quality control</a>(20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a>(10 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/00-intro/">Introduction</a> (18 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/">Formatting data</a> (35 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/">Common formatting problems</a> (20 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/03-dates-as-data/">Dates as data</a> (13 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/04-quality-control/">Quality control</a> (20 mins)</li>
+  <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a> (10 mins)</li>
 </ol>
 
 <h4>Data cleaning with OpenRefine ( )</h4>
@@ -252,24 +252,24 @@ They are also required to abide by
 </p>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/">Introduction</a>(10 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/">Basics of OpenRefine</a>(35 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/">Filtering and sorting</a>(20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/">Examining numeric data</a><(20 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/">Generating scripts</a>(15 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/">Exporting data</a>(15 mins)</li>
-  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/">Other resources</a>(10 mins)</li>  
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/">Introduction</a> (10 mins)</li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/">Basics of OpenRefine</a> (35 mins)</li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/02-filter-exclude-sort/">Filtering and sorting</a> (20 mins)</li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/03-numbers/">Examining numeric data</a> (20 mins)</li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/04-scripts/">Generating scripts</a> (15 mins)</li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/05-save-export/">Exporting data</a> (15 mins)</li>
+  <li><a href="http://www.datacarpentry.org/OpenRefine-ecology-lesson/06-resources/">Other resources</a> (10 mins)</li>  
 </ol>
 
 <h4>Data analysis with R ( )</h4>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a>( mins)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Introduction to R</a>( mins)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html">Working with tabular data in R</a>( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a> ( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Introduction to R</a> ( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html">Working with tabular data in R</a> ( mins)</li>
 </ol>
 
-<a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1( mins)</a>
+<a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1 ( mins)</a>
 
 
 <h3>Day 2</h3>
@@ -278,9 +278,9 @@ They are also required to abide by
 <h4>Data analysis with R</h4>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a>( mins) ( )</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a>( mins) ( )</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a>( mins) ( )</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a> ( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a> ( mins)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> ( mins)</li>
 </ol>
 
 Learn more about SQL from the 
