@@ -286,11 +286,10 @@ They are also required to abide by
 Learn more about SQL from the 
 <a href="http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/">SQL data lessons</a>.
 
-
-<b> Should you finish earlier than others and want some more challenges please have a go.  
+<p><b> Should you finish earlier than others and want some more challenges please have a go.  
  at this material from the R Software Carpentry course (They could also be done    
  post-course as a revision exercise):</b>   
-[Gapmider R materials](http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html)
+<a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html">Gapmider R materials]</a>
 
 
 {% comment %}
