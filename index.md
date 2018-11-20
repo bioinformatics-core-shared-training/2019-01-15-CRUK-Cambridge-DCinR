@@ -289,7 +289,7 @@ Learn more about SQL from the
 <p><b> Should you finish earlier than others and want some more challenges please have a go.  
  at this material from the R Software Carpentry course (They could also be done    
  post-course as a revision exercise):</b>   
-<a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html">Gapmider R materials]</a>
+<a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html">Gapmider R materials</a>
 
 
 {% comment %}
