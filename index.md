@@ -225,7 +225,7 @@ They are also required to abide by
 <img src="assets/img/Data_carpentry_overview_fig.png" alt="overview" width="800"/>
 
 <h2 id="schedule">Schedule</h2>
-[Tietable](https://bioinformatics-core-shared-training.github.io/2018-11-29-Crick-London//timetable)
+<a href="https://bioinformatics-core-shared-training.github.io/2018-11-29-Crick-London//timetable">Timetable</a>.  
 <h3>Day 1</h3>
 
 <h4>Data organization in spreadsheets ( )</h4>
