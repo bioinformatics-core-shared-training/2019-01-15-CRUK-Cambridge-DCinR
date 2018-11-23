@@ -291,6 +291,13 @@ Learn more about SQL from the
  post-course as a revision exercise):</b>   
 <a href="http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/index.html">Gapmider R materials</a>
 
+<p><u>Useful reference sheets</u>
+<ol>
+<li><a href="https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf">Base R cheatsheet</a></li>
+<li><a href="https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf">Dplyr cheatsheet</a></li>
+<li><a href="https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf">ggplot2 cheatsheet</a></li>
+<li><a href="http://datacamp-community.s3.amazonaws.com/076cc4b0-6e77-4c75-b369-e60d1434817c">Tidyverse cheatsheet</a></li>
+</ol>
 
 {% comment %}
   SYLLABUS
