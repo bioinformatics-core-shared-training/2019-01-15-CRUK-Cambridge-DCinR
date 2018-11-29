@@ -231,8 +231,8 @@ They are also required to abide by
 <h4>Data organization in spreadsheets ( )</h4>
 
 <p>
-  Data files for the lesson are available 
-  <a href="https://ndownloader.figshare.com/files/2252083">here</a>.
+  <H2>Data files for the lesson are available 
+	  <a href="https://ndownloader.figshare.com/files/2252083">here</a>.</H2>
 </p>
 
 <ol>
@@ -247,8 +247,8 @@ They are also required to abide by
 <h4>Data cleaning with OpenRefine ( )</h4>
 
 <p>
-  Data files for the lesson are available 
-  <a href="https://ndownloader.figshare.com/files/7823341">here</a>.
+  <H2>Data files for the lesson are available 
+	  <a href="https://ndownloader.figshare.com/files/7823341">here</a></H2>.
 </p>
 
 <ol>
