@@ -12,7 +12,7 @@ startdate: 2019-01-15      # machine-readable start date for the workshop in YYY
 enddate: 2019-01-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: [ "Mark Fernandes", "Anne Pajon", "Jing Su", "Ashley Sawle"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["Gabriella Rustici <gr231@cam.ac.uk>"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["mark.fernandes@cruk.cam.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://pad.carpentries.org/2018-11-29-Crick-London   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -195,7 +195,7 @@ They are also required to abide by
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% elsif page.carpentry == "dc" %}
   <p><b>Please be sure to complete this survey after the workshop:</b> 
-  <a href="https://www.surveymonkey.co.uk/r/SFZXXWD">Cambridge training survey</a></p>
+  <a href="https://www.surveymonkey.co.uk/r/DataCRJan19">Cambridge training survey</a></p>
 
   <p>We would also appreciate if you filled in these surveys for the Data Carpentry community:</p>
   <p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Data carpentry pre-workshop Survey</a></p>
