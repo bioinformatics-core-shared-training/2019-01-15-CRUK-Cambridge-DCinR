@@ -115,12 +115,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> 
- Participants should bring their own laptop with a
+  We will be using pre-configured computers in the Schools E-Learning Suite.
+ Participants can bring their own laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
   that they have administrative privileges
   on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>). 
-(Those without a laptop should arrange to borrow one from the Crick IT helpdesk).
+  <a href="#setup">below</a>) or by using Docker and relevant containers <see here>.
+This can also be done after the course to re-engage with the materials.
+	
 They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
