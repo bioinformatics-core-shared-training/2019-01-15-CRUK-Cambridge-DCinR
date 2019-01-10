@@ -120,7 +120,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) 
   that they have administrative privileges
   on. They should have a few specific software packages installed (listed
-  <a href="#setup">below</a>) or by using Docker and relevant containers <see here>.
+  <a href="#setup">below</a>) or by using Docker and relevant containers <a href="Installing_Dockerised_learning_environment.pdf">see here</a>.
 This can also be done after the course to re-engage with the materials.
 	
 They are also required to abide by
