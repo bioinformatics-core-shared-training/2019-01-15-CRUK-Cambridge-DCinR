@@ -285,6 +285,11 @@ They are also required to abide by
   <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> ( mins)</li>
 </ol>
 
+<p>
+  <H2>CSV data files for the final part of Database lesson are available from  
+	  <a href="https://github.com/datacarpentry/ecology-workshop/blob/master/data.md">here</a></H2>.
+</p>
+
 Learn more about SQL from the 
 <a href="http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/">SQL data lessons</a>.
 
