@@ -2,18 +2,18 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "School of Clinical Medicine"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "E-Learning3, Level 2, School of Clinical Medicine, Cambridge Biomedical Campus, Cambridge CB2 0SP"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "E-Learning1, Level 2, School of Clinical Medicine, Cambridge Biomedical Campus, Cambridge CB2 0SP"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "52.186900,0.137400"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "Jan 15-16, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Mar 11-12, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:30 - 17:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-01-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-01-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: [ "Mark Fernandes", "Anne Pajon", "Jing Su", "Ashley Sawle"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2020-03-11      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-03-12        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: [ "Mark Fernandes", "Chandra Sekhar Reddy Chilamakuri"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["mark.fernandes@cruk.cam.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  https://pad.carpentries.org/2019-01-15-CRUK-Cambridge   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:  https://pad.carpentries.org/2020-03-11-CRUK-Cambridge   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
