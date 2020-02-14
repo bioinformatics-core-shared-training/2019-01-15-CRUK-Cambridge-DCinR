@@ -197,7 +197,7 @@ They are also required to abide by
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
 {% elsif page.carpentry == "dc" %}
   <p><b>Please be sure to complete this survey after the workshop:</b> 
-  <a href="https://www.surveymonkey.co.uk/r/DataCRJan19">Cambridge training survey</a></p>
+  <a href="https://www.surveymonkey.co.uk/r/DataCarpMar">Cambridge training survey</a></p>
 
   <p>We would also appreciate if you filled in these surveys for the Data Carpentry community:</p>
   <p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Data carpentry pre-workshop Survey</a></p>
